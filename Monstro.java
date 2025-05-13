@@ -1,3 +1,4 @@
+/*comentario de prueba para github*/
 /**
  * Clase Monstro que representa a los enemigos del juego.
  * Define características, comportamiento y habilidades de los monstros.

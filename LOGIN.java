@@ -1,4 +1,4 @@
-
+/*esto es una prueba para github*/
 public class LOGIN {
     /** Correo electrónico para autenticación */
     private String mail;
